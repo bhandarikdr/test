@@ -1,2 +1,8 @@
 this is the information file regarding anyting updated.
+-----------------------------------------------------------
 > this is really great.
+##New modifications
+> added printf function
+> added scanf function
+thanks.
+--------------------------------
